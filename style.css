@@ -1,0 +1,55 @@
+body{
+    margin: 15px 30px;
+    background-color:  rgb(233, 183, 125);
+}
+h1{
+  text-align: center;
+    font-size: 200%;
+}
+h2{
+    text-align: center;
+    color: maroon;
+    font-style: italic;
+ text-decoration: underline;
+}
+h3{
+    color: maroon;
+}
+header{
+    padding: 40px;
+    background-color: rgb(235, 151, 55); 
+}
+nav{
+    background-color: rgb(236, 136, 22);
+    overflow: hidden;
+}
+nav a{
+    padding: 20px;
+    text-align: center;
+    float:left;
+    color: maroon;
+}
+footer{
+    margin: 100px;
+    font-size: 10px;
+  
+    background-color:rgb(236, 136, 22);
+    overflow:hidden;
+}
+footer a{
+   
+    padding:10px;
+    text-align:centre;
+    float:left;
+}
+li{
+    
+    margin-top: 20px;
+    font-size:20px;
+}
+.centre{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 30%;
+}
